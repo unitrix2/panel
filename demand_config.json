@@ -1,0 +1,46 @@
+{
+  "firms": [
+    {
+      "name": "M/s ABCD",
+      "address": "Prayagraj",
+      "contract_no": "123456",
+      "contract_date": "01-01-2026"
+    },
+    {
+      "name": "M/s Shivalik Prints",
+      "address": "Kanpur",
+      "contract_no": "CONT-7890",
+      "contract_date": "15-02-2026"
+    }
+  ],
+  "depots": [
+    {
+      "code": "CNB",
+      "name": "Kanpur Central",
+      "place": "Kanpur",
+      "sign_title": "SSE/C&W/CNB",
+      "sign_zone": "North Central Railway"
+    },
+    {
+      "code": "PRYJ",
+      "name": "Prayagraj Junction",
+      "place": "Prayagraj",
+      "sign_title": "SSE/C&W/PRYJ",
+      "sign_zone": "North Central Railway"
+    },
+    {
+      "code": "GWL",
+      "name": "Gwalior",
+      "place": "Gwalior",
+      "sign_title": "SSE/C&W/GWL",
+      "sign_zone": "North Central Railway"
+    },
+    {
+      "code": "JHS",
+      "name": "Jhansi (VGLJ)",
+      "place": "Jhansi",
+      "sign_title": "SSE/C&W/VGLJ",
+      "sign_zone": "North Central Railway"
+    }
+  ]
+}
