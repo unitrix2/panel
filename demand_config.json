@@ -1,14 +1,14 @@
 {
   "firms": [
     {
-      "name": "M/s ABCD",
+      "name": "Ms SHREE SATSUMUKH CONSTRUCTIONS",
       "address": "Prayagraj",
       "contract_no": "123456",
       "contract_date": "01-01-2026"
     },
     {
-      "name": "M/s Shivalik Prints",
-      "address": "Kanpur",
+      "name": "M/s Awadh Constructions",
+      "address": "Varanasi",
       "contract_no": "CONT-7890",
       "contract_date": "15-02-2026"
     }
