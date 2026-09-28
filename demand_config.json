@@ -1,0 +1,72 @@
+{
+  "firms": [
+    {
+      "name": "M/s ABCD",
+      "address": "Prayagraj",
+      "contract_no": "123456",
+      "contract_date": "01-01-2026"
+    },
+    {
+      "name": "M/s Shivalik Prints",
+      "address": "Kanpur",
+      "contract_no": "CONT-7890",
+      "contract_date": "15-02-2026"
+    }
+  ],
+  "depots": [
+    {
+      "code": "CNB",
+      "name": "Kanpur Central",
+      "place": "Kanpur",
+      "sign_title": "SSE/C&W/CNB",
+      "sign_zone": "North Central Railway"
+    },
+    {
+      "code": "PRYJ",
+      "name": "Prayagraj Junction",
+      "place": "Prayagraj",
+      "sign_title": "SSE/C&W/PRYJ",
+      "sign_zone": "North Central Railway"
+    },
+    {
+      "code": "GWL",
+      "name": "Gwalior",
+      "place": "Gwalior",
+      "sign_title": "SSE/C&W/GWL",
+      "sign_zone": "North Central Railway"
+    },
+    {
+      "code": "JHS",
+      "name": "Jhansi (VGLJ)",
+      "place": "Jhansi",
+      "sign_title": "SSE/C&W/VGLJ",
+      "sign_zone": "North Central Railway"
+    }
+  ],
+  "letter": {
+    "logo": {
+      "width": 74,
+      "height": 74
+    },
+    "title": "Panel/Destination Board Demand",
+    "subject_label": "Subject:",
+    "subject_template": "Demand for Supply and Pasting of Vinyl Coated Panel and Destination Board for {train_title} ({train_numbers})",
+    "contract_label": "Contract no.:",
+    "contract_dated_label": "Dated:",
+    "divider": "*****************************",
+    "paragraph1": "With reference to the contract awarded to your firm for the supply and pasting of Vinyl Coated Panels and Destination Boards in the coaches of this depot, you are hereby requested to supply and paste the following items on the rakes of {train_title} ({train_numbers}) at the earliest, so that the work can be completed within the stipulated time frame.",
+    "paragraph2": "The quantity -wise requirement is furnished below for your reference and necessary action:",
+    "table_headers": {
+      "sno": "S. No.",
+      "desc": "Description of Item",
+      "qty": "Quantity"
+    },
+    "items": {
+      "destination_board": "Destination Board",
+      "panel_board": "Panel Board",
+      "coach_indication_board": "Coach Indication Board"
+    },
+    "paragraph3": "You are requested to depute your authorized representative to this depot at the earliest to coordinate the supply and pasting work as per the terms and conditions of the contract. The work should be carried out strictly as per the approved specifications and design, and completed within the time schedule agreed upon.",
+    "urgent_line": "This may kindly be treated as urgent."
+  }
+}
