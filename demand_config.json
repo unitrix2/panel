@@ -45,8 +45,8 @@
   ],
   "letter": {
     "logo": {
-      "width": 150,
-      "height": 150
+      "width": 110,
+      "height": 110
     },
     "title": "Panel/Destination Board Demand",
     "subject_label": "Subject:",
