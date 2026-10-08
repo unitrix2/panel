@@ -50,7 +50,7 @@
     },
     "title": "Panel/Destination Board Demand",
     "subject_label": "Subject:",
-    "subject_template": "Demand for Supply and Pasting of Vinyl Coated Panel and Destination and Panel Boards for {train_title} ({train_numbers})",
+    "subject_template": "Demand for Supply and Pasting of Vinyl Coated Panel and Destination Boards for {train_title} ({train_numbers})",
     "contract_label": "Contract no.:",
     "contract_dated_label": "Dated:",
     "divider": "*****************************",
