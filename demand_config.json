@@ -1,16 +1,16 @@
 {
   "firms": [
     {
-      "name": "M/s ABCD",
-      "address": "Prayagraj",
-      "contract_no": "123456",
-      "contract_date": "01-01-2026"
+      "name": "M/s SHREE SATSUMUKH CONSTRUCTIONS",
+      "address": "0, SAHIPUR, RATIPUR, HANDIA, \nSAHIPUR RAMKHELAWAN, \nPrayagraj UP- 221503 \nMob.: +91 9554967555 \ne-mail: srisatsumukh11@gmail.com",
+      "contract_no": "LoA No.: 11381400167327",
+      "contract_date": "07-09-2026"
     },
     {
-      "name": "M/s Shivalik Prints",
-      "address": "Kanpur",
-      "contract_no": "CONT-7890",
-      "contract_date": "15-02-2026"
+      "name": "M/s Awadh Construction",
+      "address": "Varanasi",
+      "contract_no": "00000000000",
+      "contract_date": "dd-mm-yyyy"
     }
   ],
   "depots": [
