@@ -1,16 +1,16 @@
 {
   "firms": [
     {
-      "name": "M/s SHREE SATSUMUKH CONSTRUCTIONS",
-      "address": "0, SAHIPUR, RATIPUR, HANDIA, \nSAHIPUR RAMKHELAWAN, \nPrayagraj UP- 221503 \nMob.: +91 9554967555 \ne-mail: srisatsumukh11@gmail.com",
-      "contract_no": "LoA No.: 11381400167327",
-      "contract_date": "07-09-2026"
+      "name": "M/s ABCD",
+      "address": "Prayagraj",
+      "contract_no": "123456",
+      "contract_date": "01-01-2026"
     },
     {
-      "name": "M/s Awadh Construction",
-      "address": "Varanasi",
-      "contract_no": "00000000000",
-      "contract_date": "dd-mm-yyyy"
+      "name": "M/s Shivalik Prints",
+      "address": "Kanpur",
+      "contract_no": "CONT-7890",
+      "contract_date": "15-02-2026"
     }
   ],
   "depots": [
@@ -45,12 +45,20 @@
   ],
   "letter": {
     "logo": {
-      "width": 110,
-      "height": 110
+      "width": 74,
+      "height": 74
+    },
+    "page": {
+      "margin_top": 50,
+      "margin_bottom": 50,
+      "margin_left": 65,
+      "margin_right": 65,
+      "auto_fit": true,
+      "min_margin": 15
     },
     "title": "Panel/Destination Board Demand",
     "subject_label": "Subject:",
-    "subject_template": "Demand for Supply and Pasting of Vinyl Coated Panel and Destination Boards for {train_title} ({train_numbers})",
+    "subject_template": "Demand for Supply and Pasting of Vinyl Coated Panel and Destination Board for {train_title} ({train_numbers})",
     "contract_label": "Contract no.:",
     "contract_dated_label": "Dated:",
     "divider": "*****************************",
@@ -64,7 +72,8 @@
     "items": {
       "destination_board": "Destination Board",
       "panel_board": "Panel Board",
-      "coach_indication_board": "Coach Indication Board"
+      "coach_indication_board": "Coach Indication Board",
+      "other_awareness_stickers": "Other Awareness Stickers"
     },
     "paragraph3": "You are requested to depute your authorized representative to this depot at the earliest to coordinate the supply and pasting work as per the terms and conditions of the contract. The work should be carried out strictly as per the approved specifications and design, and completed within the time schedule agreed upon.",
     "urgent_line": "This may kindly be treated as urgent."
