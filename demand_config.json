@@ -45,8 +45,8 @@
   ],
   "letter": {
     "logo": {
-      "width": 110,
-      "height": 110
+      "width": 100,
+      "height": 100
     },
     "page": {
       "margin_top": 10,
